@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PeelTechnologies/react-native-tcp"
+    "url": "https://github.com/netbeast/react-native-tcp"
   },
   "keywords": [
     "react-component",
